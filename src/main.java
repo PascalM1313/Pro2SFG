@@ -5,6 +5,10 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Help");
 		System.out.println("asdfasdf");
+		system.out.prinln("test");
+				
+
+
 
 	}
 
